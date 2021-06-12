@@ -1,2 +1,2 @@
 # ML-Projects
-My basic ML projects
+Basic ML projects
